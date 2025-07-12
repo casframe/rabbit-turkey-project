@@ -15,3 +15,5 @@
 - People rise up to complete the chanting of the summons, which is said to have once been successful.
 
 ### This is what I saw in my dream. Please summon everyone to continue from Episode 2.
+
+[README.md](README.md)
