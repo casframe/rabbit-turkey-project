@@ -17,3 +17,9 @@
 ### This is what I saw in my dream. Please summon everyone to continue from Episode 2.
 
 [README.md](README.md)
+
+---
+🛠️ This project is under development and not yet open-source.  
+Any use of symbolic elements (names, world mechanics, terms, or plot fragments) requires prior contact.  
+This is to protect structural integrity during its Collapse phase.
+
