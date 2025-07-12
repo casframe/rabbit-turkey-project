@@ -4,7 +4,7 @@
 
 ## 📜 Canon Policy (There Is No Canon)
 
-**"Rabbit Gifts" "Turkey Drops" there is no canonical history except for the first episode.**  
+**"Rabbit Gifts" "Turkey Drops" there is no canonical history except for the [first episode](dream.md).**  
 Every story, character, setting, or timeline you encounter is just one possible reality.  
 There are no "true" versions—only interpretations, iterations, and fractures.
 
