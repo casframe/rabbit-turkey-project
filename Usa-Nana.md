@@ -22,7 +22,8 @@ in a **collapsing world**.
 - If successful, a hero appears, but if it fails, a monster might be summoned instead.
 - **Faith and despair of humans wavering between the end and the reconstruction of the world.**
 - Each episode features **insert songs (in the form of chants or recollections)** that add structural and emotional depth to the story.
-
+- The story is differentiated by the if stories of successful and unsuccessful summonses.
+  
 ---
 
 ## Notes
