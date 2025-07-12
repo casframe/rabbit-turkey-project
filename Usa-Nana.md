@@ -1,4 +1,4 @@
-# 🐇The Rabbit’s Gift / 🦃The Turkey’s Lost Item (Nickname: Usa-Nana)
+# 🐇The Rabbit’s Gift / 🦃The Turkey’s Lost Item (Nickname: Usa-Nana)　2025/07/13
 
 ## “🐇The Rabbit’s Gift” Arc
 
