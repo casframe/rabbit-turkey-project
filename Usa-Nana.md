@@ -1,4 +1,4 @@
-# 🐇The Rabbit’s Gift / 🦃The Turkey’s Lostting (Nickname: Usa-Nana)　2025/07/13
+# 🐇The Rabbit’s Gift / 🦃The Turkey’s Lost Thing (Nickname: Usa-Nana)　2025/07/13
 
 ## “🐇The Rabbit’s Gift” Arc
 
@@ -13,7 +13,7 @@ experiencing **selection exams, friendship, betrayal, and the blossoming of tale
 
 ---
 
-## “🦃The Turkey’s Lostting” Arc
+## “🦃The Turkey’s Lost Thingg” Arc
 
 A tale of people clinging to the summoning of a “hero” from old legends  
 in a **collapsing world**.
