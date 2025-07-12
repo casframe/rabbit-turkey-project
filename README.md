@@ -1,10 +1,10 @@
 # rabbit-turkey-project
 
-# 🐇 Usagi No.7 - Canon and Terms of Use (EN)
+# 🐇 "Rabbit Gifts" "Turkey Drop" - Canon and Terms of Use (EN)
 
 ## 📜 Canon Policy (There Is No Canon)
 
-**Usagi No.7 has no official canon.**  
+**"Rabbit Gifts" "Turkey Drop" has no official canon.**  
 Every story, character, setting, or timeline you encounter is just one possible reality.  
 There are no "true" versions—only interpretations, iterations, and fractures.
 
@@ -22,7 +22,7 @@ It’s a living narrative system that evolves with its users.
 
 ## 📖 Terms of Use
 
-By engaging with Usagi No.7, you agree to the following principles:
+By engaging with "Rabbit Gifts" "Turkey Drop", you agree to the following principles:
 
 ### ✅ You MAY:
 
@@ -34,7 +34,7 @@ By engaging with Usagi No.7, you agree to the following principles:
 ### ❌ You MAY NOT:
 
 - Claim original authorship of the base project
-- Use Usagi No.7 for hate speech, harassment, or malicious deception
+- Use "Rabbit Gifts" "Turkey Drop" for hate speech, harassment, or malicious deception
 - Sell derivative works without explicit permission
 - Register trademarks or IP using elements from Usagi No.7
 
@@ -46,7 +46,7 @@ By engaging with Usagi No.7, you agree to the following principles:
 
 ## 🌐 Licensing Note
 
-Usagi No.7 is an open interpretive IP.  
+"Rabbit Gifts" "Turkey Drop" is an open interpretive IP.  
 However, certain elements (logos, official scripts, etc.) may be reserved.  
 For commercial use inquiries or co-licensing opportunities, please contact the project maintainer.
 
