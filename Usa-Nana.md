@@ -9,6 +9,7 @@ experiencing **selection exams, friendship, betrayal, and the blossoming of tale
 - The story depicts combat training, trials, and the manifestation of skills within the guild.
 - Each individual’s personality, struggles, and past traumas are key elements.
 - Through bonds with comrades and the pain of betrayal, the question of what the “true gift” is, is explored.
+- Those with the skill of “Urabbit” can come and go between different worlds after being summoned in the turkey version.
 
 ---
 
