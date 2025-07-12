@@ -1,10 +1,10 @@
 # rabbit-turkey-project 2025/07/13
 
-# 🐇 "Rabbit Gifts" "Turkey Drops" - Canon and Terms of Use (EN)
+# 🐇 "Rabbit Gifts" "Turkey Lostting" - Canon and Terms of Use (EN)
 
 ## 📜 Canon Policy (There Is No Canon)
 
-**"Rabbit Gifts" "Turkey Drops" there is no canonical history except for the [first episode](dream.md).**  
+**"🐇Rabbit Gifts" "🦃Turkey Lostting" there is no canonical history except for the [first episode](dream.md).**  
 Every story, character, setting, or timeline you encounter is just one possible reality.  
 There are no "true" versions—only interpretations, iterations, and fractures.
 
@@ -22,7 +22,7 @@ It’s a living narrative system that evolves with its users.
 
 ## 📖 Terms of Use
 
-By engaging with "Rabbit Gifts" "Turkey Drop", you agree to the following principles:
+By engaging with "🐇Rabbit Gifts" "🦃Turkey Lostting", you agree to the following principles:
 
 ### ✅ You MAY:
 
