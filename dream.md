@@ -1,15 +1,17 @@
-# Episode 1
-## 🐇"Rabbit gifts"
-- The time is the present day.
-- A new gate to another world opened and candidates who could adapt were gathered.
-- Hooded candidates are gathered.
-- Each face is invisible.
-- It is time to work hard and develop your talents to join the guild and face the trials of friendship, betrayal, and desertion.
+# 第1話  
+## 🐇「うさぎの贈りもの」  
+- 時代は現代。  
+- 異世界への新たなゲートが開かれ、適応できる候補者たちが集められる。  
+- フードを被った候補者たちが集う。  
+- それぞれの顔は見えない。  
+- ギルドに加わり、友情・裏切り・脱落などの試練に立ち向かうため、各自が努力し才能を伸ばす時が来た。
 
-## 🦃"Turkey Dropps"
-- A collapsing world.
-- There are many demons and the weather is intense.
-- Hoods are essential due to the intense weather.
-- People find hope in the chanting of the invocation, which is said to have existed in old tales.
-- The chanting of folktales is fragmentary and incomplete.
-- People rise up to complete the chanting of the summons, which is said to have once been successful.
+## 🦃「七面鳥の落としもの」  
+- 崩壊しつつある世界。  
+- 多くの魔物が現れ、天候は苛烈を極める。  
+- 激しい天候のため、フードは必需品。  
+- 人々は、昔話にあったとされる召喚の詠唱に希望を見出す。  
+- 民話の詠唱は断片的で不完全。  
+- かつて成功したとされる召喚の詠唱を完成させようと、人々が立ち上がる。
+
+### これは夢で見た物語です。第2話目からの展開は召喚者たちに委ねられています。
