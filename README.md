@@ -1,6 +1,6 @@
 # rabbit-turkey-project 2025/07/13
 
-# 🐇 "Rabbit Gifts" "Turkey Lostting" - Canon and Terms of Use (EN)
+#  "🐇Rabbit Gifts" "🦃Turkey Lostting" - Canon and Terms of Use (EN)
 
 ## 📜 Canon Policy (There Is No Canon)
 
