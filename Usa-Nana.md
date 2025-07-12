@@ -13,7 +13,7 @@ experiencing **selection exams, friendship, betrayal, and the blossoming of tale
 
 ---
 
-## “🦃The Turkey’s Lost Thingg” Arc
+## “🦃The Turkey’s Lost Thing” Arc
 
 A tale of people clinging to the summoning of a “hero” from old legends  
 in a **collapsing world**.
