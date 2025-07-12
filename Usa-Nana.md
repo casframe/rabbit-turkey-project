@@ -36,3 +36,10 @@ in a **collapsing world**.
 ---
 
 Let me know if you need a more literal or more creative translation, or if you want this adapted for a specific purpose!
+
+---
+
+🛠️ This project is under development and not yet open-source.  
+Any use of symbolic elements (names, world mechanics, terms, or plot fragments) requires prior contact.  
+This is to protect structural integrity during its Collapse phase.
+
