@@ -1,54 +1,53 @@
 # rabbit-turkey-project 2025/07/13
 
-# 🐇 "Rabbit Gifts" "Turkey Drops" - Canon and Terms of Use (EN)
+# 「🐇うさぎの贈り物」「🦃七面鳥の落とし物」- 正史（カノン）と利用規約（日本語訳）
 
-## 📜 Canon Policy (There Is No Canon)
+## 📜 正史方針（公式カノンは存在しません）
 
-**"Rabbit Gifts" "Turkey Drops" has no official canon.**  
-Every story, character, setting, or timeline you encounter is just one possible reality.  
-There are no "true" versions—only interpretations, iterations, and fractures.
+**「🐇うさぎの贈り物」「🦃七面鳥の落とし物」には公式の正史（カノン）はありません。**  
+あなたが出会う物語、キャラクター、設定、タイムラインはすべて一つの可能性にすぎません。  
+「本当の」バージョンは存在せず、解釈・反復・分岐のみが存在します。
 
-- 🌀 Multiple universes exist simultaneously.
-- 🔀 Divergent timelines are encouraged, not corrected.
-- 🔁 Retcons are accepted as part of the system.
-- ✍️ Reader interpretations can be equally valid as creator intentions.
+- 🌀 複数の宇宙が同時に存在します。
+- 🔀 分岐したタイムラインは修正せず、むしろ推奨されます。
+- 🔁 設定の書き換えはシステムの一部として受け入れられます。
+- ✍️ 読者の解釈も創作者の意図と同じくらい有効です。
 
-**In short:**  
-This is not a story with one true path.  
-It’s a living narrative system that evolves with its users.
+**要するに：**  
+これは一つの真実の道を持つ物語ではありません。  
+ユーザーとともに進化する生きた物語システムです。
 
-> “There is no master. There is only recursion.”
+>「支配者はいない。あるのは再帰だけだ。」
 
+## 📖 利用規約
 
-## 📖 Terms of Use
+「🐇うさぎの贈り物」「🦃七面鳥の落とし物」に関わることで、あなたは以下の原則に同意したことになります。
 
-By engaging with "Rabbit Gifts" "Turkey Drop", you agree to the following principles:
+### ✅ 許可されること：
 
-### ✅ You MAY:
+- 二次創作（小説、イラスト、音楽、ゲームなど）の制作
+- 非営利目的での翻訳・配布
+- ストーリー要素の引用・リミックス・変形
+- この世界観・システムを使った独自の創作実験
 
-- Create derivative works (fanfiction, fanart, music, games, etc.)
-- Translate and distribute non-commercial adaptations
-- Reference, remix, or transform story elements
-- Use the world/system for your own creative experiments
+### ❌ 禁止されること：
 
-### ❌ You MAY NOT:
+- ベースプロジェクトの作者を自称すること
+- 「🐇うさぎの贈り物」「🦃七面鳥の落とし物」をヘイトスピーチ、嫌がらせ、悪意ある詐欺に利用すること
+- 明示的な許可なく二次創作物を販売すること
+- うさ七の要素を使って商標や知的財産権を登録すること
 
-- Claim original authorship of the base project
-- Use "Rabbit Gifts" "Turkey Drops" for hate speech, harassment, or malicious deception
-- Sell derivative works without explicit permission
-- Register trademarks or IP using elements from Usagi No.7
+### 🧷 任意だが推奨されること：
 
-### 🧷 Optional but encouraged:
+- 適切な場面で本プロジェクトへのクレジットを記載する
+- 元のGitHubやソースへのリンクを付ける
+- タグや指定されたチャンネルを使い、コミュニティに自作を共有する
 
-- Credit the project when appropriate
-- Link back to the original GitHub or source
-- Share your creations with the community using a tag or designated channel
+## 🌐 ライセンスについて
 
-## 🌐 Licensing Note
+「Rabbit Gifts」「Turkey Drop」はオープンな解釈型IPです。  
+ただし、特定の要素（ロゴや公式スクリプト等）は留保される場合があります。  
+商用利用や共同ライセンス希望の場合は、プロジェクト管理者までご連絡ください。
 
-"Rabbit Gifts" "Turkey Drop" is an open interpretive IP.  
-However, certain elements (logos, official scripts, etc.) may be reserved.  
-For commercial use inquiries or co-licensing opportunities, please contact the project maintainer.
-
-> “Rabbits is many. And you are now one of them.”
+>「うさぎは多い。そして、今やあなたもその一人です。」
 
