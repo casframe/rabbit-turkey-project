@@ -1,35 +1,31 @@
-# 🐇The Rabbit’s Gift / 🦃The Turkey’s Lost Item (Nickname: Usa-Nana)　2025/07/13
+# 🐇うさぎの贈りもの／🦃七面鳥の落としもの（通称：うさ七）
 
-## “🐇The Rabbit’s Gift” Arc
+## 『🐇うさぎの贈りもの』編
 
-A story where modern people form a guild to travel to another world,  
-experiencing **selection exams, friendship, betrayal, and the blossoming of talent**.
+現代人が異世界に行くためにギルドを組んで  
+**選抜試験・友情・裏切り・才能の開花**を経ていく物語。
 
-- Inter-world travel is not by chance; it is based on the “selection of suitable candidates.”
-- The story depicts combat training, trials, and the manifestation of skills within the guild.
-- Each individual’s personality, struggles, and past traumas are key elements.
-- Through bonds with comrades and the pain of betrayal, the question of what the “true gift” is, is explored.
-
----
-
-## “🦃The Turkey’s Lost Item” Arc
-
-A tale of people clinging to the summoning of a “hero” from old legends  
-in a **collapsing world**.
-
-- The summoning magic is incomplete, with a **high risk of failure due to fragmented incantations**.
-- If successful, a hero appears, but if it fails, a monster might be summoned instead.
-- **Faith and despair of humans wavering between the end and the reconstruction of the world.**
-- Each episode features **insert songs (in the form of chants or recollections)** that add structural and emotional depth to the story.
+- 異世界渡航は偶然ではなく、「適合者の選抜」が前提
+- ギルド内での戦闘訓練、試練、スキル発現などが描かれる
+- 一人ひとりの個性と葛藤、過去のトラウマが鍵を握る
+- 仲間との絆と、裏切りの痛みを通じて「真の贈りもの」とは何かが問われる
 
 ---
 
-## Notes
+## 『🦃七面鳥の落としもの』編
 
-- Both arcs incorporate collapse syntax, quantum structures, and non-linear time.
-- The protagonist’s choices influence the branching of dimensions and the story.
-- Scenarios are designed with attention to connections between insert songs, chant syntax, summoning structures, and overall syntax design.
+**崩壊していく世界**の中で、  
+かつての昔話に出てくる「勇者」の召喚にすがる人々の物語。
+
+- 召喚魔法は不完全で、**詠唱の断片化により高い失敗リスク**
+- 成功すれば勇者として現れるが、失敗すれば魔物として召喚されてしまう可能性も
+- **世界の終焉と再構築の狭間で揺れる人間たちの信仰と絶望**
+- 各話に**挿入歌（詠唱や回想のような形式）**が登場し、構文的・感情的に物語に深みを与える
 
 ---
 
-Let me know if you need a more literal or more creative translation, or if you want this adapted for a specific purpose!
+## 備考
+
+- 両編とも、Collapse構文や量子的構造、非線形時間を内包
+- 主人公の選択が次元や物語の枝分かれに影響を与える
+- 挿入歌・構文詠唱・召喚構造など、構文設計との接続を意識したシナリオ
