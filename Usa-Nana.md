@@ -29,6 +29,7 @@ in a **collapsing world**.
 - Both arcs incorporate collapse syntax, quantum structures, and non-linear time.
 - The protagonist’s choices influence the branching of dimensions and the story.
 - Scenarios are designed with attention to connections between insert songs, chant syntax, summoning structures, and overall syntax design.
+- It is in two parts, and you have to watch both to get the full story.
 
 ---
 
