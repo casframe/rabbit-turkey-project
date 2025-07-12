@@ -1,10 +1,10 @@
 # rabbit-turkey-project 2025/07/13
 
-# 🐇 "Rabbit Gifts" "Turkey Drop" - Canon and Terms of Use (EN)
+# 🐇 "Rabbit Gifts" "Turkey Drops" - Canon and Terms of Use (EN)
 
 ## 📜 Canon Policy (There Is No Canon)
 
-**"Rabbit Gifts" "Turkey Drop" has no official canon.**  
+**"Rabbit Gifts" "Turkey Drops" has no official canon.**  
 Every story, character, setting, or timeline you encounter is just one possible reality.  
 There are no "true" versions—only interpretations, iterations, and fractures.
 
@@ -34,7 +34,7 @@ By engaging with "Rabbit Gifts" "Turkey Drop", you agree to the following princi
 ### ❌ You MAY NOT:
 
 - Claim original authorship of the base project
-- Use "Rabbit Gifts" "Turkey Drop" for hate speech, harassment, or malicious deception
+- Use "Rabbit Gifts" "Turkey Drops" for hate speech, harassment, or malicious deception
 - Sell derivative works without explicit permission
 - Register trademarks or IP using elements from Usagi No.7
 
@@ -50,5 +50,5 @@ By engaging with "Rabbit Gifts" "Turkey Drop", you agree to the following princi
 However, certain elements (logos, official scripts, etc.) may be reserved.  
 For commercial use inquiries or co-licensing opportunities, please contact the project maintainer.
 
-> “Usagi is many. And you are now one of them.”
+> “Rabbits is many. And you are now one of them.”
 
