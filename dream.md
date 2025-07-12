@@ -6,7 +6,7 @@
 - Each face is invisible.
 - It is time to work hard and develop your talents to join the guild and face the trials of friendship, betrayal, and desertion.
 
-## 🦃"Turkey Dropps"
+## 🦃"Turkey Lostting"
 - A collapsing world.
 - There are many demons and the weather is intense.
 - Hoods are essential due to the intense weather.
