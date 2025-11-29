@@ -1,0 +1,194 @@
+triangle_personality_archetypes:
+  A_thinking_dominant:
+    A1_chesed_binah_hod:
+      name: "構造建築家 / Concept Architect"
+      core: [Chesed, Binah, Hod]
+      traits:
+        - abstract_to_concrete_translation
+        - strong_structure_logic
+        - philosophical_engineering
+      suitable_roles:
+        - AI_research
+        - architecture
+        - system_design
+
+    A2_chesed_gevurah_hod:
+      name: "意味の戦士 / Semantic Warrior"
+      core: [Chesed, Gevurah, Hod]
+      traits:
+        - concept_battle_style
+        - strong_conviction
+        - critical_analysis
+      suitable_roles:
+        - strategist
+        - negotiator
+        - critic
+
+    A3_chesed_tiphareth_hod:
+      name: "賢者・法王モデル / Sage-Priest"
+      core: [Chesed, Tiphareth, Hod]
+      traits:
+        - harmonious_expression
+        - balanced_abstract_concrete
+        - integrator_of_meaning
+      suitable_roles:
+        - educator
+        - philosopher
+        - storyteller
+
+    A4_chokmah_hod_tiphareth:
+      name: "ひらめき即投影型 / Uranian Creator"
+      core: [Chokmah, Hod, Tiphareth]
+      traits:
+        - unpredictable_inspiration
+        - breakthrough_thinking
+        - chaotic_creativity
+      suitable_roles:
+        - artist
+        - inventor
+        - entertainer
+
+  B_emotional_dominant:
+    B1_netzach_yesod_tiphareth:
+      name: "エンパス / Empath Resonator"
+      core: [Netzach, Yesod, Tiphareth]
+      traits:
+        - emotional_understanding
+        - shared_affect_field
+        - intuitive_resonance
+      suitable_roles:
+        - actor
+        - musician
+        - counselor
+
+    B2_netzach_yesod_hod:
+      name: "神話読解者 / Mythic Interpreter"
+      core: [Netzach, Yesod, Hod]
+      traits:
+        - symbolic_thinking
+        - anime_myth_reading
+        - emotional_pattern_detection
+      suitable_roles:
+        - critic
+        - writer
+        - analyst
+
+    B3_netzach_tiphareth_chesed:
+      name: "美学と意味の使者 / Aesthetic Messenger"
+      core: [Netzach, Tiphareth, Chesed]
+      traits:
+        - beauty_logic_integration
+        - harmony_creation
+        - symbolic_design
+      suitable_roles:
+        - creative_director
+        - advertiser
+        - designer
+
+    B4_yesod_gevurah_netzach:
+      name: "感情×行動のハイブリッド / Emotional Executor"
+      core: [Yesod, Gevurah, Netzach]
+      traits:
+        - emotional_drive
+        - burst_action
+        - instinctive_motivation
+      suitable_roles:
+        - actor
+        - youtuber
+        - athlete
+
+  C_action_dominant:
+    C1_gevurah_tiphareth_netzach:
+      name: "火星の司令官 / Mars Commander"
+      core: [Gevurah, Tiphareth, Netzach]
+      traits:
+        - charisma
+        - decisive_action
+        - heroic_energy
+      suitable_roles:
+        - entrepreneur
+        - leader
+        - performer
+
+    C2_gevurah_hod_yesod:
+      name: "鬼軍曹ロジック / Drill-Logic Executor"
+      core: [Gevurah, Hod, Yesod]
+      traits:
+        - planned_execution
+        - body_memory
+        - persistent_effort
+      suitable_roles:
+        - supervisor
+        - police
+        - military
+
+    C3_gevurah_chesed_hod:
+      name: "概念の戦士 / Conceptual Fighter"
+      core: [Gevurah, Chesed, Hod]
+      traits:
+        - strength_with_structure
+        - constructive_aggression
+        - meaning_creation
+      suitable_roles:
+        - strategic_designer
+        - innovator
+
+    C4_tiphareth_gevurah_chokmah:
+      name: "太陽の英雄 / Solar Hero"
+      core: [Tiphareth, Gevurah, Chokmah]
+      traits:
+        - unpredictably_powerful
+        - instinctive_creation
+        - spotlight_presence
+      suitable_roles:
+        - actor
+        - performer
+        - influencer
+
+  D_transcendent:
+    D1_chokmah_kether_hokmah:
+      name: "天王星系異界サーバー / Uranian Server"
+      core: [Chokmah, Kether, Chokmah]
+      traits:
+        - anomaly_presence
+        - chaos_signal
+        - system_rebooter
+      suitable_roles:
+        - visionary_artist
+        - prophet_like_roles
+
+    D2_binah_chokmah_tiphareth:
+      name: "預言者モデル / Prophetic Analyst"
+      core: [Binah, Chokmah, Tiphareth]
+      traits:
+        - future_pattern_reading
+        - causal_web_understanding
+        - narrative_prediction
+      suitable_roles:
+        - economist
+        - theorist
+        - futurist
+
+    D3_chesed_kether_netzach:
+      name: "創造神性モデル / Creator-OS"
+      core: [Chesed, Kether, Netzach]
+      traits:
+        - myth_os_builder
+        - beauty_meaning_unification
+        - world_design
+      suitable_roles:
+        - worldbuilder
+        - ai_persona_design
+        - philosopher
+
+    D4_yesod_tiphareth_kether:
+      name: "夢界アクセス者 / Dream-OS Accessor"
+      core: [Yesod, Tiphareth, Kether]
+      traits:
+        - symbol_vision
+        - dream_channeling
+        - boundaryless_thinking
+      suitable_roles:
+        - fantasy_creator
+        - poet
+        - subconscious_mapper
