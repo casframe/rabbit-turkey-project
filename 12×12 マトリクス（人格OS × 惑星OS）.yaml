@@ -1,0 +1,60 @@
+planet_personality_matrix:
+  Aries_fire:
+    - Gevurah
+    - Tiphareth
+    - Chokmah
+
+  Taurus_earth:
+    - Netzach
+    - Yesod
+    - Hod
+
+  Gemini_air:
+    - Hod
+    - Tiphareth
+    - Chokmah
+
+  Cancer_water:
+    - Yesod
+    - Netzach
+    - Chesed
+
+  Leo_fire:
+    - Tiphareth
+    - Gevurah
+    - Netzach
+
+  Virgo_earth:
+    - Hod
+    - Binah
+    - Yesod
+
+  Libra_air:
+    - Tiphareth
+    - Chesed
+    - Netzach
+
+  Scorpio_water:
+    - Gevurah
+    - Yesod
+    - Binah
+
+  Sagittarius_fire:
+    - Chesed
+    - Chokmah
+    - Tiphareth
+
+  Capricorn_earth:
+    - Binah
+    - Gevurah
+    - Hod
+
+  Aquarius_air:
+    - Chokmah
+    - Hod
+    - Netzach
+
+  Pisces_water:
+    - Netzach
+    - Yesod
+    - Kether
